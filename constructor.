@@ -1,0 +1,8 @@
+#constructor: __init__
+#maps properties of class into repective object
+#two types: parameterized, non-parameterized
+#del obj: to delete object
+class car:
+    def __init__(self,color,maker):   #constructor
+        self.color = color
+        self.maker= maker
