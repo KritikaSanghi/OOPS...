@@ -11,3 +11,4 @@ scanf("%d",&n);
         n=sum;
         sum=0;
     }
+  }
