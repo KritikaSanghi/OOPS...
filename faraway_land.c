@@ -12,3 +12,5 @@ scanf("%d",&n);
         sum=0;
     }
   }
+printf("%d",sum);
+}
